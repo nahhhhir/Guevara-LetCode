@@ -1,0 +1,50 @@
+body{
+    font-family: 'Lato','Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #EEEBDD;
+}
+
+.header{
+    color: #EEEBDD;
+    padding: 4%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1B1717;
+}
+
+.title{
+    size: 24px;
+}
+
+.img{
+    width: 12%;
+    background-color: #EEEBDD;
+    border-radius: 150px;
+}
+
+.footer{
+    color: #EEEBDD;
+    padding: 4%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1B1717;
+}
+
+.imgcolegio{
+    width: 100%;
+}
+
+.logolet{
+    width: 15%;
+}
+
+@media(min-width: 400px){
+
+}
+
+@media(min-width: 1000px){
+
+}

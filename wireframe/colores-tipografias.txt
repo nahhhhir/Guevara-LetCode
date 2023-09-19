@@ -1,0 +1,10 @@
+Paleta de colores:
+blaco: EEEBDD
+negro: 1B1717
+rojo: CE1212
+bordo: 810000
+naranja: F94C10
+
+Tipografias: 
+
+
